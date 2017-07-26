@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-sfbrowser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-11 13:36+0100\n"
+"PO-Revision-Date: 2010-11-11 13:36+0100\n"
+"Last-Translator: Ron Valstar <poedit@ronvalstar.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp_sfbrowser.php:141
+msgid "SFBrowser Management"
+msgstr ""
+
+#: ../wp_sfbrowser.php:141
+msgid "SFBrowser"
+msgstr ""
+
+#: ../wp_sfbrowser.php:146
+msgid "SFBrowser options"
+msgstr "SFBrowser opties"
+
+#: ../wp_sfbrowser.php:147
+msgid "_SFBrowser explanation"
+msgstr "SFBrowser is een bestandsbeheer module. Het kan gebruikt worden als alternatief op de bestaande (irritante) media bibliotheek. Daarnaast kan het gebruikt worden ter ondersteuning van plugins en/of extensies.<br/>In tegenstelling tot de bestaande media bibliotheek slaat SFBrowser niets op in de database. Daarnaast geeft het relatieve paden naar bestanden (media bibliotheek gebruikt absollute paden). Dit laatste heeft echter wel het gevolg dat het (nog) niet gebruikt kan worden met url-rewrite (maar hier wordt aan gewerkt)."
+
+#: ../wp_sfbrowser.php:152
+msgid "Save changes"
+msgstr "Bewaar veranderingen"
+
+#: ../wp_sfbrowser.php:163
+msgid "Basic settings"
+msgstr "Basis instellingen"
+
+#: ../wp_sfbrowser.php:164
+msgid "Upload directory"
+msgstr ""
+
+#: ../wp_sfbrowser.php:165
+msgid "Image directory"
+msgstr "Afbeeldingen directory"
+
+#: ../wp_sfbrowser.php:165
+#: ../wp_sfbrowser.php:166
+#: ../wp_sfbrowser.php:167
+#: ../wp_sfbrowser.php:168
+msgid "(relative to upload directory)"
+msgstr "(relatief tov upload directory)"
+
+#: ../wp_sfbrowser.php:166
+msgid "Video directory"
+msgstr ""
+
+#: ../wp_sfbrowser.php:167
+msgid "Audio directory"
+msgstr ""
+
+#: ../wp_sfbrowser.php:168
+msgid "Media directory"
+msgstr ""
+
+#: ../wp_sfbrowser.php:171
+msgid "Override Wordpress elements"
+msgstr "Overschrijvingen van Wordpress elementen"
+
+#: ../wp_sfbrowser.php:171
+msgid "_sfbrowser override explanation."
+msgstr "Individuele Worpress elementen die de bestaande media bibliotheek gebruiken kunnen worden overschreven om SFBrowser te gebruiken."
+
+#: ../wp_sfbrowser.php:172
+msgid "Media menu item"
+msgstr ""
+
+#: ../wp_sfbrowser.php:173
+msgid "TinyMCE Upload/Insert"
+msgstr "TinyMCE Uploaden/Toevoegen"
+
+#: ../wp_sfbrowser.php:174
+msgid "image"
+msgstr "afbeelding"
+
+#: ../wp_sfbrowser.php:175
+msgid "video"
+msgstr ""
+
+#: ../wp_sfbrowser.php:176
+msgid "audio"
+msgstr ""
+
+#: ../wp_sfbrowser.php:177
+msgid "media"
+msgstr ""
+
+#: ../wp_sfbrowser.php:181
+msgid "SFBrowser settings"
+msgstr "SFBrowser instellingen"
+
+#: ../wp_sfbrowser.php:181
+msgid "_sfbrowser settings explanation."
+msgstr "SFBrowser heeft zelf een hoop instellingen. Nu zijn er maar enkele gebruikt voor Worpress. In de toekomst worden er meer toegevoegd."
+
+#: ../wp_sfbrowser.php:182
+msgid "Plugins"
+msgstr ""
+
+#: ../wp_sfbrowser.php:183
+msgid "Resize images"
+msgstr "Verschaal afbeeldingen"
+
+#: ../wp_sfbrowser.php:183
+msgid "_resizeExplain"
+msgstr "(werkt alleen voor tinyMCE afbeelding, gebruik anders de imageresize plugin)"
+
+#: ../wp_sfbrowser.php:185
+msgid "Directory creation"
+msgstr "Folders aanmaken"
+
+#: ../wp_sfbrowser.php:185
+msgid "_dirsExplain"
+msgstr "(geeft de mogelijkheid tot aanmaken en wijzigen van folders)"
+
+#: ../wp_sfbrowser.php:186
+msgid "Swf upload"
+msgstr ""
+
+#: ../wp_sfbrowser.php:186
+msgid "_swfUploadExplain"
+msgstr "(gebruikt Flash voor het uploaden zodat meerdere bestanden tegelijkertijd kunnen worden upgeload)"
+
+#: ../wp_sfbrowser.php:187
+msgid "Debug mode"
+msgstr "Debug modus"
+
+#: ../wp_sfbrowser.php:187
+msgid "_debugExplain"
+msgstr "(debug modus schrijft naar log files (mits chmod goed staat), window console log en Flash traces)"
+
+#: ../wp_sfbrowser.php:266
+msgid "Settings"
+msgstr "Instellingen"
+
+#~ msgid "(works only for tinymce image, otherwise use the imageresize plugin)"
+#~ msgstr ""
+#~ "(werkt alleen voor tinyMCE afbeelding, gebruik anders de imageresize "
+#~ "plugin)"
+
+#~ msgid "(allows for the user to create and edit directories)"
+#~ msgstr "(geeft de mogelijkheid tot aanmaken en wijzigen van folders)"
